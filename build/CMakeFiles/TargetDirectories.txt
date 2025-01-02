@@ -1,0 +1,3 @@
+/Users/rodericklan/Projects/dory/build/CMakeFiles/Dory.dir
+/Users/rodericklan/Projects/dory/build/CMakeFiles/edit_cache.dir
+/Users/rodericklan/Projects/dory/build/CMakeFiles/rebuild_cache.dir
